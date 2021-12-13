@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <p>
-        ToDo: заполнить контент и продумать роуты
+        React Router
       </p>
     </div>
   );
